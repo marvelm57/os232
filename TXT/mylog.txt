@@ -8,5 +8,6 @@ ZCZC W00 60 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W00 40 L88 Workout/Sport/Exercise/ETC.
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 20 L03 Github related
+ZCZC W01 90 L05 Quiz related including studying
 ZCZC W01 10 L61 Virtual Box
 ZCZC W01 60 L62 Install Virtual Debian Guest

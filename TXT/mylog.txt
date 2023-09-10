@@ -9,6 +9,7 @@ ZCZC W00 40 L88 Workout/Sport/Exercise/ETC.
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 20 L03 Github related
 ZCZC W01 90 L05 Quiz related including studying
-ZCZC W01 10 L61 Virtual Box
+ZCZC W01 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 10 L61 Install Virtual Box
 ZCZC W01 60 L62 Install Virtual Debian Guest
-ZCZC W01 45 L99 Googling a way to copy-paste in Debian for Mac user.
+ZCZC W01 45 L99 Googling a way to copy-paste on Debian for Mac user.

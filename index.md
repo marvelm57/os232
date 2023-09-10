@@ -3,4 +3,4 @@
 [GitHub](https://github.com/marvelm57/os232) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) 
 <br>
 <hr>
-&copy; 2023 - {{ site.author }}
+&copy; 2023

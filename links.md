@@ -13,3 +13,5 @@ permalink: LINKS/
 1. [What Is a TAR File?](https://www.lifewire.com/tar-file-2622386) - For those who still don't know what TARBALL is. This site will help you understand about what TAR file is, how to make them, and how to convert them.
 2. [Linux File System and Directory Structure](https://www.scaler.com/topics/linux-tutorial/file-system-of-linux/) - The Linux file system and directory structure are fundamental components of the operating system. This site covers structure, characteristics, and types of Linux file system.
 3. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA) - This video is a quick and good C Programming tutorial. It explains some of the basic syntax and logic used in C Programming Language.
+## Week 04
+1. [scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) - This site explains about scp command which allows the secure transferring of files between the local host and the remote host or between two remote hosts. This site helps me in doing this week's pop quiz.

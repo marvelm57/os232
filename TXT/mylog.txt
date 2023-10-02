@@ -27,3 +27,9 @@ ZCZC W03 90 L13 Assignment #03
 ZCZC W03 30 L32 YouTube: watching OS related topics.
 ZCZC W03 30 L62 Backup Virtual Debian Guest
 ZCZC W03 10 L64 Helping a friend (Assignment #03 related)
+ZCZC W04 20 L01 SCELE/Discord related
+ZCZC W04 20 L03 Github related
+ZCZC W04 90 L14 Assignment #04
+ZCZC W04 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L61 Backup Virtual Debian Guest
+ZCZC W04 40 L70 Studying for other courses.

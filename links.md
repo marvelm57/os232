@@ -15,3 +15,5 @@ permalink: LINKS/
 3. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA) - This video is a quick and good C Programming tutorial. It explains some of the basic syntax and logic used in C Programming Language.
 ## Week 04
 1. [scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) - This site explains about scp command which allows the secure transferring of files between the local host and the remote host or between two remote hosts. This site helps me in doing this week's pop quiz.
+2. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s) - Memory management is one of the main functions of an operating system.  This video is an overview of the paged and segmented memory management systems.
+3. [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile) - Makefile is a script consists of command to run and compile a program more efficiently into a file.

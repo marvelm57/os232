@@ -19,4 +19,4 @@ permalink: LINKS/
 3. [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile) - Makefile is a script consists of command to run and compile a program more efficiently into a file.
 ## Week 05
 1. [GPG encryption guide part 2 (asymmetric encryption)](https://tutonics.com/articles/gpg-encryption-guide-part-2-asymmetric-encryption/) - This site provides a guide on how to encrypt or decrypt file asymmetrically with GPG Keys. This site helps me in doing this week's pop quiz.
-2. 
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory. This site gives further explanation about Virtual Memory and how it can be useful.

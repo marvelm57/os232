@@ -20,3 +20,6 @@ permalink: LINKS/
 ## Week 05
 1. [GPG encryption guide part 2 (asymmetric encryption)](https://tutonics.com/articles/gpg-encryption-guide-part-2-asymmetric-encryption/) - This site provides a guide on how to encrypt or decrypt file asymmetrically with GPG Keys. This site helps me in doing this week's pop quiz.
 2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory. This site gives further explanation about Virtual Memory and how it can be useful.
+## Week 06
+1. [L-1.11: Process Vs Threads in Operating System](https://www.youtube.com/watch?v=ITc09gOrqZk) - This video explains the difference between process and thread with examples.
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) - This site explains about fork function in C that is used for creating the duplicate of the calling process.

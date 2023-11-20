@@ -66,4 +66,5 @@ ZCZC W08 15 L08 OS Chat related via LINE Friend
 ZCZC W08 90 L15 Assignment #08
 ZCZC W08 30 L25 C-language including Make.
 ZCZC W08 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 90 L32 YouTube: watching Kernotex LFS 12 tutorial.
 ZCZC W08 30 L62 Backup Virtual Debian Guest

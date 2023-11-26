@@ -68,3 +68,11 @@ ZCZC W08 30 L25 C-language including Make.
 ZCZC W08 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W08 90 L32 YouTube: watching Kernotex LFS 12 tutorial.
 ZCZC W08 30 L62 Backup Virtual Debian Guest
+ZCZC W09 20 L01 SCELE/Discord related
+ZCZC W09 20 L03 Github related
+ZCZC W09 40 L05 Quiz related including studying
+ZCZC W09 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 15 L08 OS Chat related via LINE Friend
+ZCZC W09 90 L15 Assignment #09
+ZCZC W09 80 L32 YouTube: watching Kernotex LFS 12 tutorial.
+ZCZC W09 90 L70 Studying for other courses.

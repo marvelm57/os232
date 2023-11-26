@@ -27,4 +27,6 @@ permalink: LINKS/
 1. [L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1](https://www.youtube.com/watch?v=3Eaw1SSIqRg) - Processes Synchronization is the way by which processes that share the same memory space are managed in an operating system. It helps maintain the consistency of data by using variables or hardware so that only one process can make changes to the shared memory at a time.
 2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - A deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.
 ## Week 08
-1. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/) - This site gives instructions on how to build a Linux system from source
+1. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/) - This site gives instructions on how to build a Linux system from source.
+## Week 09
+1. [Linux From Scratch Ch. 6](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) & [Linux From Scratch Ch. 7](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) - A video version on how to build a Linux system.
